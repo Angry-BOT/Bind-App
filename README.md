@@ -1,2 +1,2 @@
-# Bind-App
-Bind IOS &amp; Android Application Codebase
+# bind_app
+
